@@ -11,11 +11,17 @@ DESCRIPTION
 
 FEATURES  
                 Ticket Reservation
+                
                 Ticket cancellation
+                
                 Ticket availabilty
+                
                 Trains details
+                
                 Food services
+                
                 Medical serivces
+                
                 Book services
                 
 FUNCTIONALITIES

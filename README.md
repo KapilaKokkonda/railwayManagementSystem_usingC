@@ -48,3 +48,18 @@ FUNCTIONALITIES
                 7. Book services : In this project, books will be provided to the well
                    most book readers. User have to select it by
                    placing an order and it will be provided to him/her.
+
+
+ TEXT-FILES USED
+              
+              "Train_Codes.txt"
+              "Train_Names.txt"
+              "Train_details.txt"
+              "Train_2S.txt"
+              "Train_S.txt"
+              "Train_1AC.txt"
+              "Train_2AC.txt"
+              "Train_3AC.txt"
+              "Seats.txt"
+              "Reserved.txt
+              

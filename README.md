@@ -10,6 +10,7 @@ DESCRIPTION
                 perfectly on windows os.
                
 FUNCTIONALITIES
+
                1. Ticket Reservation: In this project users can reserve their tickets for 
                   respective trains. They just need to enter either 
                   train name or code itself.If they are not aware of

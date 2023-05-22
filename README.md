@@ -11,7 +11,6 @@ DESCRIPTION
 
 FEATURES  
                 Ticket Reservation
-                
                 Ticket cancellation
                 
                 Ticket availabilty

@@ -17,6 +17,7 @@ FEATURES
                 Food services
                 Medical serivces
                 Book services
+                
 FUNCTIONALITIES
                1. Ticket Reservation: In this project users can reserve their tickets for 
                   respective trains. They just need to enter either 

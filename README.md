@@ -1,6 +1,6 @@
 # railwayManagementSystem_usingC
 
-##DESCRIPTION  
+#DESCRIPTION  
 This project is a simple console C application 
 without the use of graphics . This project is 
 totally error free and we have presented the 

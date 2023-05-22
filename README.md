@@ -11,8 +11,10 @@ DESCRIPTION
                
 FUNCTIONALITIES
 
-               1. Ticket Reservation: In this project users can reserve their tickets for  respective trains. They just need to enter either train name or code itself.If they are not aware of
-                  their respective train code or name then they can  refer in trains details. According to the number of seats and additional information entered by the 
+               1. Ticket Reservation: In this project users can reserve their tickets for  respective trains. 
+                  They just need to enter either train name or code itself.If they are not aware of
+                  their respective train code or name then they can  refer in trains details. 
+                  According to the number of seats and additional information entered by the 
                   user, the seats will be reserved and ticket will be  displayed on the window.
                   
                2. Ticket Cancellation: In this project users can cancel their tickets which 

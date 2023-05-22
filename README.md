@@ -10,19 +10,8 @@ DESCRIPTION
                 perfectly on windows os.
 
 FEATURES  
-                Ticket Reservation
-                Ticket cancellation
-                
-                Ticket availabilty
-                
-                Trains details
-                
-                Food services
-                
-                Medical serivces
-                
-                Book services
-                
+                Ticket Reservation,Ticket cancellation,Ticket availabilty,Trains details,Food service, Medical serivces,Book services
+               
 FUNCTIONALITIES
                1. Ticket Reservation: In this project users can reserve their tickets for 
                   respective trains. They just need to enter either 

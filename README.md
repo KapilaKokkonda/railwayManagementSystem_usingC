@@ -9,7 +9,7 @@ DESCRIPTION
                 provided 7 functionalities here. This code works 
                 perfectly on windows os.
 
-FEATURES 
+FEATURES  
                 Ticket Reservation
                 Ticket cancellation
                 Ticket availabilty
